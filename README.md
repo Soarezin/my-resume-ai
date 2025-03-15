@@ -1,5 +1,27 @@
-# Vue 3 + Vite
+# CurriculAI 📄✨
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Sistema de geração e otimização de currículos profissionais com Inteligência Artificial.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## 🌟 Sobre o Projeto
+
+CurriculAI é uma plataforma SaaS que utiliza IA para ajudar usuários a criar currículos profissionais e otimizados. O sistema analisa o conteúdo, sugere melhorias e formata o currículo de acordo com as melhores práticas do mercado.
+
+## 🚀 Funcionalidades
+
+- ✨ Geração de currículos com IA
+- 📝 Análise inteligente de conteúdo
+- 🎨 Templates profissionais personalizáveis
+- 📊 Dashboard com análises e métricas
+- 💳 Sistema de assinatura (Planos Free e Premium)
+- 🔄 Sincronização em tempo real
+- 📱 Interface responsiva
+
+## 🛠️ Tecnologias
+
+- [Vue.js 3](https://vuejs.org/) - Framework JavaScript progressivo
+- [Vite](https://vitejs.dev/) - Build tool e dev server
+- [Tailwind CSS](https://tailwindcss.com/) - Framework CSS utilitário
+- [Supabase](https://supabase.com/) - Backend as a Service
+- [Pinia](https://pinia.vuejs.org/) - Gerenciamento de estado
+- [Vue Router](https://router.vuejs.org/) - Roteamento oficial do Vue.js
+- [Stripe](https://stripe.com/) - Processamento de pagamentos
